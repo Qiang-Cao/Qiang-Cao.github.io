@@ -56,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        : "https://www.instagram.com/qiang.c_/"
+  Instagram        : "/qiang.c_/"
   lastfm           : # Username
   linkedin         : "/qiang-cao-a2764819a/"
   mastodon         : # URL
@@ -81,7 +81,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
