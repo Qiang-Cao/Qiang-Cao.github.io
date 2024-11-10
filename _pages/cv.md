@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](files/Curriculum_Vitae_1.pdf)
+[Download CV here](https://qiang-cao.github.io/files/Curriculum_Vitae_1.pdf)
