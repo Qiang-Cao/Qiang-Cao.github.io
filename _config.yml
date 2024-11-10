@@ -22,7 +22,7 @@ repository               : "https://qiang-cao.github.io/"
 author:
   # Biographic information
   avatar           : "1.png"
-  name             : "Your Sidebar Name"
+  name             : "Qiang Cao"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
   location         : "Paris, France"
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        : "qiang.c_"
+  Instagram        : "https://www.instagram.com/qiang.c_/"
   lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/qiang-cao-a2764819a/"
+  linkedin         : "https://www.linkedin.com/in/qiang-cao-a2764819a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
